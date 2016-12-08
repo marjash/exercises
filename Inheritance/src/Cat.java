@@ -1,5 +1,5 @@
 
-public class Cat extends Animal { // клас Cat унаслідує з класу Animal
+public class Cat extends Animal {
 	private int age;
 
     public Cat(String kind, String name, int age) {
